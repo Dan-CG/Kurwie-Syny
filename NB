@@ -9,4 +9,5 @@ a=["Co kurwa o mnie piszesz bez pozwolenia?",
 "Ja cię nie obgaduję za plecami",
 "Kto to Nightbot",
 "Pocałuj mnie w dupę, panie Eredinie",
-"Za Temerię zrobię wszystko, ale Danowi nie dam tej, no"]
+"Za Temerię zrobię wszystko, ale Danowi nie dam tej, no",
+"Gdybym miał powiedzieć, co cenię w życiu najbardziej, powiedziałbym, że ZDROWIE KURWIEGO SYNA VERNONA ROCHE'A."]

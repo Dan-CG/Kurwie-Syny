@@ -11,4 +11,5 @@ a=["Co kurwa o mnie piszesz bez pozwolenia?",
 "Za Temerię zrobię wszystko, nawet się skurwię.",
 "Gdybym miał powiedzieć, co cenię w życiu najbardziej, powiedziałbym, że ZDROWIE KURWIEGO SYNA VERNONA ROCHE'A.",
 "Ja jestem błędny. Ale nie obłąkany.",
-"Ktoś coś mówił czy pierd słyszałem?"]
+"Ktoś coś mówił czy pierd słyszałem?",
+"Powiedz no, czy to coś z przodu twojej głowy to twarz czy dupa?"]

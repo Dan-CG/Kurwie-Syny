@@ -12,4 +12,10 @@ a=["Co kurwa o mnie piszesz bez pozwolenia?",
 "Gdybym miał powiedzieć, co cenię w życiu najbardziej, powiedziałbym, że ZDROWIE KURWIEGO SYNA VERNONA ROCHE'A.",
 "Ja jestem błędny. Ale nie obłąkany.",
 "Ktoś coś mówił czy pierd słyszałem?",
-"Powiedz no, czy to coś z przodu twojej głowy to twarz czy dupa?"]
+"Powiedz no, czy to coś z przodu twojej głowy to twarz czy dupa?",
+"Czego mnie dekoncentrujesz? Poluję na segzboty!",
+"Ja jestem, kurwa, jedyny! Jedyny, rozumisz kmiocie?!",
+"Kiedyś udzielałem się na czacie jak ty, ale potem dostałem strzałą w kolano.",
+"Czeguj?",
+"Ja nie mieszam, ja zmagam się z tworzywem.",
+"Stare kurwy nie chcą zdychać. :("]

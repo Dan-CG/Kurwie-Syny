@@ -13,4 +13,4 @@ a=['"Shiftem można wielkie litery pisać?! Ja zawsze używałem capslocka!"',
 '"Jestem nie Piłonożny"',
 '"Bo ja się Inteligencji Nauczyłem"',
 '"W maku? Co to w maku? To jakaś gierka? Na pewno jakaś gierka, tylko nie kojarzę"',
-'"Nie, kurwa. Nie żartuję""'];l=a.length;r=Math.floor(Math.random()*l);r=r+": "+a[r];
+'"Nie, kurwa. Nie żartuję"'];l=a.length;r=Math.floor(Math.random()*l);r=r+": "+a[r];

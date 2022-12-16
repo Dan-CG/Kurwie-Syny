@@ -14,4 +14,6 @@ a=['"Shiftem można wielkie litery pisać?! Ja zawsze używałem capslocka!"',
 '"Bo ja się Inteligencji nauczyłem"',
 '"W maku? Co to w maku? To jakaś gierka? Na pewno jakaś gierka, tylko nie kojarzę"',
 '"Nie, kurwa. Nie żartuję"',
-'"Przespałem się z Kalksteinem?"',];l=a.length;r=Math.floor(Math.random()*l);r=r+": "+a[r];
+'"Przespałem się z Kalksteinem?"',
+"Robiłem to od tyłu"',
+"Nie czeka mi głoska płotki"',];l=a.length;r=Math.floor(Math.random()*l);r=r+": "+a[r];

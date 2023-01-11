@@ -19,4 +19,10 @@ a=['"Shiftem można wielkie litery pisać?! Ja zawsze używałem capslocka!"',
 '"Nie czeka mi głoska płotki"',
 '"Moja deska biega!"',
 '"Vaska, Do łóżka chcę iść! HejMaleńka"',
-'"Jeszcze jestem młodą dziewicą, zostaw mnie!"',];l=a.length;r=Math.floor(Math.random()*l);r=r+": "+a[r];
+'"Jeszcze jestem młodą dziewicą, zostaw mnie!"',
+'"Moja ciocia miała bimber z takim cyckiem, co się go ciągnie"',
+'"Ja właśnie wyciągnąłem gumkę z włosów i stąd miałem wczoraj"',
+'"Za gruba jest ta Triss"',
+'"W wieku 5 lat nie umiałem na pewno (grać w chińczyka)"',
+'"Jak amen w papieżu"',
+'"Miałem postać ulepszyć! Dobra, to akurat ją zjem"',];l=a.length;r=Math.floor(Math.random()*l);r=r+": "+a[r];

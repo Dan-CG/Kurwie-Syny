@@ -31,5 +31,5 @@ a=['"Shiftem można wielkie litery pisać?! Ja zawsze używałem capslocka!"',
 '"To niemożliwe, że twoją parszywą mordę zabiłem. Idź schudnij"',
 '"W dupie mam Boba i jego budowniczą mordę"',
 '"Przezorny zawsze ruchacz ubezpieczony"',
-'"No! Są Cycki! To mi wystarczy do szczęście..."',
+'"No! Są Cycki! To mi wystarczy do szczęścia..."',
 '"Daj mi jeden powód... kurwa mało, dwa powody"',];l=a.length;r=Math.floor(Math.random()*l);r=r+": "+a[r];

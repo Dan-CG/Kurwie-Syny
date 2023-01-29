@@ -29,4 +29,7 @@ a=['"Shiftem można wielkie litery pisać?! Ja zawsze używałem capslocka!"',
 '"A co jeżeli ja nie mam tych dusz, bo można je zjeść?"',
 '"Nie będzie wojny, kiedy nie będzie ludzi w ogóle. Równowaga jest? Jest - zło nie zapanuje bo nikt nie żyje"',
 '"To niemożliwe, że twoją parszywą mordę zabiłem. Idź schudnij"',
-'"W dupie mam Boba i jego budowniczą mordę"',];l=a.length;r=Math.floor(Math.random()*l);r=r+": "+a[r];
+'"W dupie mam Boba i jego budowniczą mordę"',
+'"Przezorny zawsze ruchacz ubezpieczony"',
+'"No! Są Cycki! To mi wystarczy do szczęście..."',
+'"Daj mi jeden powód... kurwa mało, dwa powody"',];l=a.length;r=Math.floor(Math.random()*l);r=r+": "+a[r];

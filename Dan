@@ -32,4 +32,5 @@ a=['"Shiftem można wielkie litery pisać?! Ja zawsze używałem capslocka!"',
 '"W dupie mam Boba i jego budowniczą mordę"',
 '"Przezorny zawsze ruchacz ubezpieczony"',
 '"No! Są Cycki! To mi wystarczy do szczęścia..."',
-'"Daj mi jeden powód, kurwa mało... dwa powody!"',];l=a.length;r=Math.floor(Math.random()*l);r=r+": "+a[r];
+'"Daj mi jeden powód, kurwa mało... dwa powody!"',
+'"Biedny piekarz bananów"',];l=a.length;r=Math.floor(Math.random()*l);r=r+": "+a[r];

@@ -34,4 +34,5 @@ a=['"Shiftem można wielkie litery pisać?! Ja zawsze używałem capslocka!"',
 '"No! Są Cycki! To mi wystarczy do szczęścia..."',
 '"Daj mi jeden powód, kurwa mało... dwa powody!"',
 '"Biedny piekarz bananów"',
-'"Każdy może wykorzystywać każdego jak pokemony"'];l=a.length;r=Math.floor(Math.random()*l);r=r+": "+a[r];
+'"Każdy może wykorzystywać każdego jak pokemony"',
+'"mana ma 40 (chyba)"'];l=a.length;r=Math.floor(Math.random()*l);r=r+": "+a[r];

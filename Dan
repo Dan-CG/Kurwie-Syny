@@ -37,4 +37,5 @@ a=['"Shiftem można wielkie litery pisać?! Ja zawsze używałem capslocka!"',
 '"Każdy może wykorzystywać każdego jak pokemony"',
 '"Mana ma 40 (chyba)" - o Swojej mamie."',
 '"Jak się tego miśka porucha"',
-'"E.T.? a to nie znam.. - no ten co miał palec jak kutas! - Aaaaa, to już wiem"'];l=a.length;r=Math.floor(Math.random()*l);r=r+": "+a[r];
+'"E.T.? a to nie znam.. - no ten co miał palec jak kutas! - Aaaaa, to już wiem"',
+'"a to spierdalaj i żeby ci to mięso odbytem wyszło"'];l=a.length;r=Math.floor(Math.random()*l);r=r+": "+a[r];

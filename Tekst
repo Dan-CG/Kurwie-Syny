@@ -1,4 +1,4 @@
 d = {
 "vernon" : ["Jestem Vernonem","Jestem Drugim Vernonem"],
 "triss" : ["Jestem Triss"]
-};l=Object.keys(d).length;q=Math.floor(l);
+};l=Object.keys(d).length;q=Math.floor(Math.random()*l);r=d[q];

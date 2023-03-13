@@ -1,4 +1,4 @@
 d = {
 "vernon" : ["Jestem Vernonem","Jestem Drugim Vernonem"],
 "triss" : ["Jestem Triss"]
-};
+};l=Object.keys(d).length;

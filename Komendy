@@ -84,4 +84,9 @@ a=["Widły w ścisku - niebezpieczna broń!",
 "Co się tu kurwa dzieje?! Pytam, co się tu,w pizdę palec, wyprawia?!",
 "Jestem pewien, że jakoś się dogadamy... - Wątpie. Zgodnie z rozporządzeniem 76/CW/X starszy szeregowy Vaclav ma w dupie kij od szczotki.",
 "- Użyj znaku! Złap go w Yrden! - Sama złap go w Yrden!",
-" - Matko niedźwiedź! - Niedźwiedź, niedźwiedź... chuj nie niedźwiedź! Schowaj się ślepy durniu!"];l=a.length;r=Math.floor(Math.random()*l);r=r+": "+a[r];
+" - Matko niedźwiedź! - Niedźwiedź, niedźwiedź... chuj nie niedźwiedź! Schowaj się ślepy durniu!",
+"Ależ skąd, kobiety i gnijące mumie przodem.",
+"Nie ma lekko! Budzimy… śpiocha!",
+"Niech będzie, zaniosę ten wasz cenny list – pod jednym warunkiem. Oszczędźcie mi resztę tej paplaniny.",
+"Jedno jest pewne, wszystko będzie w porządku…",
+"Powiedz no, czy to coś z przodu twojej głowy to twarz, czy dupa?"];l=a.length;r=Math.floor(Math.random()*l);r=r+": "+a[r];

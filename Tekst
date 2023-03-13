@@ -1,4 +1,5 @@
 d = {
-"vernon" : ["Jestem Vernonem","Jestem Drugim Vernonem"],
-"triss" : ["Jestem Triss"]
+"vernon" : ["Za Temerię zrobię wszystko, nawet się skurwię","Zadowolę się oderżnięciem ci gardła", "Chlaj z podłogi piwo od kurwiego syna Vernona Roche'a!"],
+"triss" : ["Jestem Triss","Lubię w pupę","Jestem rudą szmatą"],
+"geralt" : ["Zło to zło, Stregoborze","Kutasa mam jednego, na półtora metra","W co chcesz grać? W gwinta?"]
 };l=Object.keys(d).length;q=Math.floor(Math.random()*l);k=Object.keys(d);r=d[k[q]];r2=r;if(r.length>0){r2=r[Math.floor(Math.random()*r.length)]}

@@ -1,3 +1,4 @@
 d = {
 "vernon" : ["Jestem Vernonem","Jestem Drugim Vernonem"],
-"triss" : "Jestem Triss" };
+"triss" : ["Jestem Triss"]
+};

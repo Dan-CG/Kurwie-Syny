@@ -39,4 +39,9 @@ a=['"Shiftem można wielkie litery pisać?! Ja zawsze używałem capslocka!"',
 '"Jak się tego miśka porucha"',
 '"E.T.? a to nie znam.. - to ten co miał palec jak kutas! - Aaaaa, to już wiem"',
 '"A to spierdalaj i żeby ci to mięso odbytem wyszło"',
-'"Nigdy nie odmówiłem żulowi"'];l=a.length;r=Math.floor(Math.random()*l);r=r+": "+a[r];
+'"Nigdy nie odmówiłem żulowi"',
+'"Nie wiem czemu mi nie dochodzi, a wam dochodzi"',
+'"Nie miałem KURWA ŻADNEJ RANDKI"',
+'"Mój Kutas ci oczy zasłonił"',
+'"Zrobisz mi palcówkę tymi dłońmi?"',
+'"Coraz bardziej pedalskie te donejty"'];l=a.length;r=Math.floor(Math.random()*l);r=r+": "+a[r];

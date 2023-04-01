@@ -46,4 +46,6 @@ a=['"Shiftem można wielkie litery pisać?! Ja zawsze używałem capslocka!"',
 '"Zrobisz mi palcówkę tymi dłońmi?"',
 '"Coraz bardziej pedalskie te donejty"',
 '"Ziemia jest prosta, a kamień się przewraca! To nie ma sensu! Fizyka tej gry chyba na Marsie była robiona!"',
-'"Na moim dysku zostało zainstalowane to 24-karatowe gówno"'];l=a.length;r=Math.floor(Math.random()*l);r=r+": "+a[r];
+'"Na moim dysku zostało zainstalowane to 24-karatowe gówno"',
+'"Ile ja mam kurwa lat?"',
+'"Byłem kiedyś w sex shopie"'];l=a.length;r=Math.floor(Math.random()*l);r=r+": "+a[r];

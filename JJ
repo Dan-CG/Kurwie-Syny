@@ -1,2 +1,2 @@
 a=['Nie mam jaj 😦',
-'"Zadowolę się oderżnięciem ci jaj i poderżnięciem gardła" - Wielki Filozof Vernon Roche'];l=a.length;r=Math.floor(Math.random()*l);r=r+": "+a[r];
+'"Zadowolę się oderżnięciem ci jaj i poderżnięciem gardła" - Wielki Filozof Vernon Roche'];l=a.length;r=Math.floor(Math.random()*l);r=a[r];
